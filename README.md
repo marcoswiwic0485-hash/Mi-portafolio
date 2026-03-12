@@ -10,13 +10,12 @@ El objetivo de este portafolio es:
 
 Presentar información personal.
 
-Mostrar mis pasatiempos.
-
 Mostrar mis habilidades blandas.
 
 Mostrar algunos proyectos realizados.
 
 Practicar el desarrollo de páginas web.
+
 
 🛠 Tecnologías utilizadas
 Tecnología	Uso
@@ -24,6 +23,7 @@ HTML	Estructura de la página
 CSS	Diseño y estilos visuales
 JavaScript	Interactividad
 📂 Estructura del proyecto
+
 Portafolio
 │
 ├── index.html
@@ -34,11 +34,11 @@ Portafolio
 🧩 Secciones del sitio
 🏠 Página principal
 
-Presentación
-
-Mis pasatiempos
+Inicio
+Mis habilidades tecnicas
 
 Mis habilidades blandas
+
 
 👤 Sobre mí
 
@@ -46,11 +46,13 @@ Información personal
 
 Mis proyectos
 
+
 📞 Footer
 
 Información de contacto
 
 Redes sociales
+
 
 🎨 Características del diseño
 
@@ -63,4 +65,4 @@ Redes sociales
 👨‍💻 Autor
 
 Marcos Batista
-Estudiante de informática y recursos multimedia.
+Estudiante de informática y recursos multimedia(el mejor claro).
