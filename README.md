@@ -1,5 +1,10 @@
-# Mi-portafolio
-Objetivo del proyecto
+🌐 Portafolio Web – Marcos Batista
+📌 Descripción
+
+Este proyecto es un portafolio web personal creado para presentar información sobre mí, mis habilidades y mis proyectos.
+El sitio fue desarrollado utilizando HTML, CSS y JavaScript, con un diseño moderno de colores oscuros para darle un aspecto elegante y tecnológico.
+
+🎯 Objetivo del proyecto
 
 El objetivo de este portafolio es:
 
@@ -9,28 +14,25 @@ Mostrar mis pasatiempos.
 
 Mostrar mis habilidades blandas.
 
-Mostrar mis proyectos.
+Mostrar algunos proyectos realizados.
 
-Practicar desarrollo web.
+Practicar el desarrollo de páginas web.
 
-Tecnologías utilizadas
-
-HTML → estructura de la página
-
-CSS → diseño y estilos visuales
-
-JavaScript → interactividad y funciones
-
-Estructura del proyecto
+🛠 Tecnologías utilizadas
+Tecnología	Uso
+HTML	Estructura de la página
+CSS	Diseño y estilos visuales
+JavaScript	Interactividad
+📂 Estructura del proyecto
 Portafolio
 │
 ├── index.html
 ├── sobre.html
 ├── style.css
 ├── script.js
-└── imagenes
-Secciones del sitio
-Página principal
+└── imagenes/
+🧩 Secciones del sitio
+🏠 Página principal
 
 Presentación
 
@@ -38,31 +40,27 @@ Mis pasatiempos
 
 Mis habilidades blandas
 
-Sobre mí
+👤 Sobre mí
 
 Información personal
 
 Mis proyectos
 
-Footer
+📞 Footer
 
 Información de contacto
 
 Redes sociales
 
-Características del diseño
+🎨 Características del diseño
 
-Diseño moderno con colores oscuros
+✔ Diseño moderno con tema oscuro
+✔ Imagen de perfil redonda
+✔ Efectos hover en botones e imágenes
+✔ Organización clara de secciones
+✔ Navegación entre páginas
 
-Imágenes decorativas en cada sección
-
-Navegación entre páginas
-
-Imagen de perfil circular
-
-Efectos hover en imágenes y botones
-
-Autor
+👨‍💻 Autor
 
 Marcos Batista
 Estudiante de informática y recursos multimedia.
